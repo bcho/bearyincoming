@@ -1,0 +1,18 @@
+{
+  "name": "bearyincoming",
+  "version": "0.0.1",
+  "description": "Incoming message builder for BearyChat.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "BearyChat"
+  ],
+  "author": "hbc <me@hbc.rocks>",
+  "license": "MIT",
+  "dependencies": {
+    "es6-promise": "^3.2.1",
+    "isomorphic-fetch": "^2.2.1"
+  }
+}
