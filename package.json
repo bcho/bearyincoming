@@ -14,5 +14,14 @@
   "dependencies": {
     "es6-promise": "^3.2.1",
     "isomorphic-fetch": "^2.2.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcho/bearyincoming.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bcho/bearyincoming/issues"
+  },
+  "homepage": "https://github.com/bcho/bearyincoming#readme"
 }
