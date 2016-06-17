@@ -1,6 +1,6 @@
 {
   "name": "bearyincoming",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Incoming message builder for BearyChat.",
   "main": "lib/index.js",
   "scripts": {
